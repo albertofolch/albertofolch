@@ -2,7 +2,7 @@
 
 I build AI systems for regulated markets.
 
-For the last three years I've been the sole engineer on **Reli.AI (Ulpia)**, a legal-research
+For the last three years I've been the engineer on **Reli.AI (Ulpia)**, a legal-research
 and regulatory-screening platform for Mexico. It is closed-source, so what follows is a
 description rather than a link — happy to walk through any of it in detail.
 
